@@ -1,0 +1,13 @@
+{
+  "name": "turbopack-eacces-minimal",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "build:webpack": "next build --webpack"
+  },
+  "dependencies": {
+    "next": "16.5.0-canary.27",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  }
+}
